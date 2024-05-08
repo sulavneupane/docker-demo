@@ -68,7 +68,8 @@
 ## Install Docker on your local machine:
 * Go to the official Docker website
 * Follow installation steps
-  Note: Always best to refer to latest installation guide in the official documentation.
+
+*Note: Always best to refer to latest installation guide in the official documentation.*
 
 ## Docker Desktop includes:
 * Docker Engine
@@ -102,7 +103,8 @@
 * Official images are maintained by the software authors or in collaboration with the Docker community
 * Find and share Docker images
 * Docker hosts one of the biggest Docker Registry, called "Docker Hub"
-  Note: Docker Hub registry (docker.io) is used by default
+
+*Note: Docker Hub registry (docker.io) is used by default*
 
 ### Public and Private Docker Registries:
 * Private Docker Registries:
@@ -127,7 +129,8 @@
 * Docker images are versioned
 * Different versions are identified by tags
 * "latest" tag mostly refers to the newest release
-  Note: Using a specific version is the best practice in most cases.
+
+*Note: Using a specific version is the best practice in most cases.*
 
 ## Port Binding:
 * Container Port VS Host Port:
