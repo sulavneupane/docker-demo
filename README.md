@@ -215,4 +215,5 @@
 
 *Note: "docker build {path}" command can fail with the latest docker so always run "docker login" to log into the registry before trying to build.*
 
-Reference Video: https://www.youtube.com/watch?v=pg19Z8LL06w
+## References
+* Video: https://www.youtube.com/watch?v=pg19Z8LL06w
